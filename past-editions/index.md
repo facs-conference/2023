@@ -3,6 +3,7 @@ layout: post
 title: "Past Editions"
 ---
 
+- [FACS 2022](https://facs-conference.github.io/2022/){:target="_blank"}, Oslo, Norway (online), November 10-11, 2022
 - [FACS 2021](https://facs2021.inria.fr/){:target="_blank"}, Grenoble, France (online), October 28-29, 2021
 - [FACS 2019](https://facs-conference.github.io/2019/){:target="_blank"}, Amsterdam, Netherlands, October 23-25, 2019
 - [FACS 2018](http://sevlab.postech.ac.kr/facs18/){:target="_blank"}, Pohang, Korea, October 10-12, 2018

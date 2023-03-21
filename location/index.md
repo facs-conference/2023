@@ -2,7 +2,7 @@
 layout: location
 ---
 
-FACS 2022 presentations and discussion were held online on Zoom.
+FACS 2023 presentations and discussion were held online on Zoom.
 
 Feedback and discussion from the audience made use of Zoom's chat
 functionality.  Audience members who submitted a question were unmuted for

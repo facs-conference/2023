@@ -2,11 +2,10 @@
 layout: home
 ---
 <!--
-# Welcome to FACS 2022!
+# Welcome to FACS 2023!
 
-The 18th International Conference on Formal Aspects of Component Software will
-take place on 10-11 November 2022. FACS 2022 will be an online conference
-hosted by the University of Oslo, Norway.
+The 19th International Conference on Formal Aspects of Component Software will
+take place on 19-20 October 2023. FACS 2023 will be an online conference.
  -->
 
 <!-- # We are online! -->
@@ -26,23 +25,23 @@ verification techniques for component-based systems such as service-oriented
 architecture, cloud and edge computing, safety-critical, hybrid and cyber
 physical systems, etc.
 
-The 18th edition of FACS took place online on November 10-11 2022 and was organized by the University of Oslo.
+The 19th edition of FACS will take place online on October 19-20 2023.
 
-### Proceedings
+### Proceedings and Special Issue
 
-The proceedings are online at
+- Proceedings will be published at Springer's [Lecture Notes in Computer Science](https://www.springer.com/series/558){:target="_blank"}.
+- A selection of the best papers of the conference will be invited to submit to a special issue of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming){:target="_blank"}.
+<!-- The proceedings are online at
 [https://link.springer.com/book/10.1007/978-3-031-20872-0](https://link.springer.com/book/10.1007/978-3-031-20872-0){:target="_blank"}{:rel="noopener"}.
-
+-->
 
 ### Invited Speakers
 
-  - [Christel Baier](../2022/speakers/christelbaier/), TU Dresden, Germany
-  - [Renato Neves](../2022/speakers/renatoneves/), University of Minho, Portugal
-  - [Ina Schaefer](../2022/speakers/inaschaefer/), Karlsruhe IT, Germany
-  - [Volker Stolz](../2022/speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
+  - [Marsha Chechik](https://www.cs.toronto.edu/~chechik/), University of Toronto, Canada
+ - [Rajeev Alur](https://www.cis.upenn.edu/~alur/), UPenn, USA
 
 ### Past Editions
-
+- [FACS 2022](https://facs-conference.github.io/2022/){:target="_blank"}, Oslo, Norway (online), November 10-11, 2022
 - [FACS 2021](https://facs2021.inria.fr/){:target="_blank"}, Grenoble, France (online), October 28-29, 2021
 - [FACS 2019](https://facs-conference.github.io/2019/){:target="_blank"}, Amsterdam, Netherlands, October 23-25, 2019
 - [FACS 2018](http://sevlab.postech.ac.kr/facs18/){:target="_blank"}, Pohang, Korea, October 10-12, 2018
@@ -66,6 +65,7 @@ The proceedings are online at
 
 # Support
 
+<!-- 
 {:style="text-align:center;"}
 [![logo](assets/img/logo-uio.png "logo")](https://www.uio.no/english/){:target="blank"}
 [![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
@@ -81,11 +81,11 @@ The proceedings are online at
 {:style="text-align:center;"}
 [![logo](assets/img/logo-FCT2-pt2020.png "logoSmall")](https://www.portugal2020.pt/Portal2020){:target="blank"}
 [![logo](assets/img/logo-nfr.png "logo")](https://www.forskningsradet.no/en/){:target="blank"}
-[![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}
+[![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}-->
 [![logo](assets/img/logo-LNCS.png "logo")](https://www.springer.com/gp/computer-science/lncs){:target="blank"}
 
 {:class="thanks"}
-This event is supported by - the Norte Portugal Regional Operational Programme (NORTE 2020) under the Portugal 2020 Partnership Agreement, through ERDF – European Regional Development Fund through the Operational Programme for Competitiveness and Internationalisation (project NORTE-01-0145-FEDER-028550), - national funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia (project PTDC/EEI-COM/28550/2017). The project has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 876852. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Austria, Czech Republic, Germany, Ireland, Italy, Portugal, Spain, Sweden, Turkey, - national funds through the Research Council of Norway, that is is funding the FRINATEK Young Research Talent Project ADAPt (No. 274515), and the SIRIUS Innovation centre (No. 237898).
+This event is supported by...
 
 {:class="thanks"}
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com)
