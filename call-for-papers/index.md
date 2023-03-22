@@ -25,10 +25,9 @@ title: "Call for Papers"
 
 # Invited Speakers
 
-  - [Christel Baier](../speakers/christelbaier/), TU Dresden, Germany
-  - [Renato Neves](../speakers/renatoneves/), University of Minho, Portugal
-  - [Ina Schaefer](../speakers/inaschaefer/), Karlsruhe IT, Germany
-  - [Volker Stolz](../speakers/volkerstolz/), Western Norway University of Applied Science, Norway 
+
+- [Marsha Chechik](https://www.cs.toronto.edu/~chechik/), University of Toronto, Canada
+ - [Rajeev Alur](https://www.cis.upenn.edu/~alur/), UPenn, USA
 
 # Free Registration
 
