@@ -34,9 +34,7 @@ title: "Committees"
 - [Peter Ölveczky](peterol@ifi.uio.no), University of Oslo, Norway
 - [Rob van Glabbeek](rvg@cs.stanford.edu), University of Edinburgh, United Kingdom
 - [Samir Genaim](genaim@gmail.com), Universidad Complutense de Madrid, Spain
-- [Shoji Yuen](yuen@i.nag
-
-oya-u.ac.jp), Nagoya University, Japan
+- [Shoji Yuen](yuen@i.nagoya-u.ac.jp), Nagoya University, Japan
 - [Sung-Shik Jongmans](ssj@ou.nl), Open University of the Netherlands; Centrum Wiskunde & Informatica (CWI), Netherlands
 - [Violet Ka I Pun](violet@foldr.org), Western Norway University of Applied Sciences, Norway
 - [Zhiming Liu](zhimingliu88@swu.edu.cn), Southwest University, China
