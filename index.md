@@ -27,6 +27,10 @@ physical systems, etc.
 
 The 19th edition of FACS will take place online on October 19-20 2023.
 
+### (4/7/23) Deadline extended!
+
+The deadline for abstracts and paper submissions has been extended to <span style="color:red"> July 17th, 2023</span>.
+
 ### Proceedings and Special Issue
 
 - Proceedings will be published at Springer's [Lecture Notes in Computer Science](https://www.springer.com/series/558){:target="_blank"}.

@@ -12,8 +12,8 @@ title: "Call for Papers"
 
 # Important Dates
 
-- Abstract submission deadline: July 3rd, 2023
-- Paper submission deadline: July 10th, 2023
+- Abstract submission deadline: ~July 3rd~ July 17th, 2023
+- Paper submission deadline: ~July 10th~ July 17th, 2023
 - Notification: September 8th, 2023
 - Final version due: October 2nd, 2023
 - Symposium: October 19th-20th, 2023
