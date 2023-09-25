@@ -87,6 +87,9 @@ The deadline for abstracts and paper submissions has been extended to <span styl
 [![logo](assets/img/logo-nfr.png "logo")](https://www.forskningsradet.no/en/){:target="blank"}
 [![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}-->
 [![logo](assets/img/logo-LNCS.png "logo")](https://www.springer.com/gp/computer-science/lncs){:target="blank"}
+[![logo](assets/img/logo-ou.png "logo")](https://www.ou.nl){:target="blank"}
+
+
 
 {:class="thanks"}
 This event is supported by...
