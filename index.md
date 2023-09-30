@@ -29,7 +29,7 @@ The 19th edition of FACS will take place online on October 19-20 2023.
 
 ### (30/9/23) <span style="color:red">Tentative Program and Registration Published</span>
 
-The tentative program for FACS 2023 has been published. To participate in the event, please fill the following form. Participation is free of charge.
+The tentative program for FACS 2023 has been published. To participate in the event, please fill the [following form](https://forms.gle/HB7kKSuK1tHxGVEP9). Participation is free of charge.
 
 
 ### (4/7/23) <span style="color:red">Deadline extended!</span>
