@@ -27,6 +27,11 @@ physical systems, etc.
 
 The 19th edition of FACS will take place online on October 19-20 2023.
 
+### (30/9/23) <span style="color:red">Tentative Program and Registration Published</span>
+
+The tentative program for FACS 2023 has been published. To participate in the event, please fill the following form. Participation is free of charge.
+
+
 ### (4/7/23) <span style="color:red">Deadline extended!</span>
 
 The deadline for abstracts and paper submissions has been extended to <span style="color:red"> July 17th, 2023</span>.
