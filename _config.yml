@@ -72,7 +72,7 @@ conference:
       - name: Keynotes
         relative_url: /talks/
       - name: Registration
-        url: https://forms.gle/HB7kKSuK1tHxGVEP9
+        relative_url: /registration/
      # - name: Speakers
       #  relative_url: /speakers/
       #- name: Location
