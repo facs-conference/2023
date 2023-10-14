@@ -27,7 +27,7 @@ physical systems, etc.
 
 The 19th edition of FACS will take place online on October 19-20 2023.
 
-### (30/9/23) <span style="color:red">Paper preprints published</span>
+### (14/10/23) <span style="color:red">Paper preprints published</span>
 
 The preprints of accepted papers at FACS 2023 have been published. Preprints are linked from the paper titles included in every session of the program.
 
