@@ -44,6 +44,9 @@ title: "Committees"
  - [Javier C&aacute;mara](https://javier-camara.github.io/), University of M&aacute;laga, Spain / University of York, UK
  - [Sung-Shik Jongmans](https://sungshik.github.io/), Open University and CWI, Netherlands
 
+# FACS 20th Anniversary Chair
+
+- [Olga Kouchnarenko](olga.kouchnarenko@femto-st.fr), University of Franche-Comté, France
 
 # Steering Committee
 
@@ -59,3 +62,4 @@ title: "Committees"
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes, France
  - [Luís Soares Barbosa (Chair)](https://unu.edu/experts/luis-soares-barbosa.html), University of Minho, Portugal
  - [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology, Netherlands
+- [Javier Cámara](https://javier-camara.github.io/), University of Málaga, Spain / University of York, UK
