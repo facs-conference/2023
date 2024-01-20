@@ -44,9 +44,9 @@ The deadline for abstracts and paper submissions has been extended to <span styl
 
 - Proceedings will be published at Springer's [Lecture Notes in Computer Science](https://www.springer.com/series/558){:target="_blank"}.
 - A selection of the best papers of the conference will be invited to submit to a special issue of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming){:target="_blank"}.
-<!-- The proceedings are online at
-[https://link.springer.com/book/10.1007/978-3-031-20872-0](https://link.springer.com/book/10.1007/978-3-031-20872-0){:target="_blank"}{:rel="noopener"}.
--->
+The proceedings are online at
+[https://link.springer.com/book/10.1007/978-3-031-52183-6](https://link.springer.com/book/10.1007/978-3-031-52183-6){:target="_blank"}{:rel="noopener"}.
+
 
 ### Invited Speakers
 
