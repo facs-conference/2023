@@ -27,6 +27,10 @@ physical systems, etc.
 
 The 19th edition of FACS will take place online on October 19-20 2023.
 
+### (19/1/24) <span style="color:red">LNCS proceedings published</span>
+
+Proceedings have been published at Springer's Lecture Notes in Computer Science (LNCS) series and aare available online at [https://link.springer.com/book/10.1007/978-3-031-52183-6](https://link.springer.com/book/10.1007/978-3-031-52183-6){:target="_blank"}{:rel="noopener"}.
+
 ### (14/10/23) <span style="color:red">Paper preprints published</span>
 
 The preprints of accepted papers at FACS 2023 have been published. Preprints are linked from the paper titles included in every session of the program.
@@ -42,10 +46,10 @@ The deadline for abstracts and paper submissions has been extended to <span styl
 
 ### Proceedings and Special Issue
 
-- Proceedings will be published at Springer's [Lecture Notes in Computer Science](https://www.springer.com/series/558){:target="_blank"}.
+- Proceedings have been published at Springer's Lecture Notes in Computer Science (LNCS) series and aare available online at [https://link.springer.com/book/10.1007/978-3-031-52183-6](https://link.springer.com/book/10.1007/978-3-031-52183-6){:target="_blank"}{:rel="noopener"}.
+
+
 - A selection of the best papers of the conference will be invited to submit to a special issue of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming){:target="_blank"}.
-The proceedings are online at
-[https://link.springer.com/book/10.1007/978-3-031-52183-6](https://link.springer.com/book/10.1007/978-3-031-52183-6){:target="_blank"}{:rel="noopener"}.
 
 
 ### Invited Speakers
